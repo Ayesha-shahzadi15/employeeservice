@@ -29,6 +29,26 @@ with secure and convenient access to their employment-related information.
 ## 🔌 API Integration
 ...
 
+## 📸 Screenshots
+
+### Login
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Salary
+![Salary](screenshots/salary.png)
+
+### Income Tax
+![Income Tax](screenshots/income-tax.png)
+
+### Profile
+![Profile](screenshots/profile.png)
+
+### splash
+![Profile](screenshots/splash.png)
+
 ## 📸 App Screenshots
 
 <p align="center">
