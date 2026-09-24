@@ -47,7 +47,7 @@ with secure and convenient access to their employment-related information.
 ![Profile](screenshots/profile.png)
 
 ### splash
-![Profile](screenshots/splash.png)
+![Splash](screenshots/splash.png)
 
 ## 📸 App Screenshots
 
