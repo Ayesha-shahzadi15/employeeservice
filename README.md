@@ -29,8 +29,15 @@ with secure and convenient access to their employment-related information.
 ## 🔌 API Integration
 ...
 
-## 📸 Screenshots
-...
+## 📸 App Screenshots
+
+<p align="center">
+  <img src="screenshots/login.png" width="200">
+  <img src="screenshots/dashboard.png" width="200">
+  <img src="screenshots/salary.png" width="200">
+  <img src="screenshots/income-tax.png" width="200">
+  <img src="screenshots/profile.png" width="200">
+</p>
 
 ## 🚀 Installation
 ...
