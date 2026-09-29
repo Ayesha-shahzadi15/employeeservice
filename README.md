@@ -98,7 +98,7 @@ API responses are received in **JSON format**, processed by the application, and
 ### Profile
 ![Profile](screenshots/profile.png)
 
-### Splash Screen
+### Splash 
 ![Splash](screenshots/splash.png)
 
 ## 📸 App Screenshots
